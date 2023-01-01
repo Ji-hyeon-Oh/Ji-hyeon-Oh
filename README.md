@@ -14,4 +14,8 @@ I enjoy editing vedio, reading, traveling and putting a Lego together.😊
 <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
+##
+### 📖Education
+(2023-ing) M.S. in Machine Learning Research Lab, Sogang University, Seoul, Korea
 
+(2018-2023) B.S. in Statistic(Integrated Major in Business Intelligence), Kyungpook National University, Daegu, Korea
