@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi there! 
+I'm __Junior Data Scientist__ using Python and R.✨
 
-<!--
-**Ji-hyeon-Oh/Ji-hyeon-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I propose new insights with data analysis and visualizing, as well as implement machine/deep learning.💖
 
-Here are some ideas to get you started:
+I enjoy editing vedio, reading, traveling and putting a Lego together.😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+### 🛠Languages
+<div>
+<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/R-E34F26?style=flat-square&logo=R&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-4479A1?style=flat-square&logo=Tableau&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-1572B6?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
+
+
