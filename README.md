@@ -1,7 +1,7 @@
 ### 👋 Hi there! 
 I'm __Junior Data Scientist__ using Python and R.✨
 
-I propose new insights with data analysis and visualizing, as well as implement machine/deep learning.💖
+I propose new insights with data analysis and visualization, as well as implement machine/deep learning.💖
 
 I enjoy editing vedio, reading, traveling and putting a Lego together.😊
 
